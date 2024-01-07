@@ -5,7 +5,7 @@ body {
   min-height: 100%;
   min-height: 100vh;
   background-color: darkblue;
-  font-size: 14px;
+  font-size: 13px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -59,13 +59,13 @@ section {
 }
 
 .quote {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 400;
   color: #fff;
 }
 @media screen and (max-width: 479px) {
   .quote {
-    font-size: 2.5rem;
+    font-size: 2.2rem;
   }
 }
 @media screen and (min-width: 480px) and (max-width: 767px) {
@@ -80,12 +80,12 @@ section {
 }
 @media screen and (min-width: 1024px) {
   .quote {
-    font-size: 4rem;
+    font-size: 3rem;
   }
 }
 
 .attribution {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 1.2rem;
   color: #76eec6;
@@ -94,7 +94,7 @@ section {
 
 p,
 a {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 300;
   font-size: 1.5rem;
   color: #fff;
@@ -105,7 +105,7 @@ a {
 @media screen and (min-width: 1024px) {
   p,
 a {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
   }
 }
 p a,
